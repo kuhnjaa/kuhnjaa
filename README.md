@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuhnjaa
 - 👀 I’m interested in HTML/CSS, PYTHON
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning PYTHO>N
 
 
 <!---
